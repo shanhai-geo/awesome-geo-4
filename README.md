@@ -1,5 +1,7 @@
 # Awesome GEO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+**English** | [한국어](README.ko.md)
+
 > A curated, source-first map of **Generative Engine Optimization (GEO)**, Answer Engine Optimization (AEO), and AI search — built on official engine documentation, not vendor hype.
 
 **The uncomfortable thesis of this list:** by the search engines' *own* official docs, GEO/AEO is not a secret new optimization discipline. For Google Search it is foundational SEO applied to new answer surfaces (AI Overviews, AI Mode). Most other AI search engines (ChatGPT, Perplexity, Claude) officially share the same base — crawlable, indexable, trustworthy, fresh — and publish **no** separate "rewrite your content for AI" guidance. The one engine that *does* take a visibly different official stance is Microsoft Bing/Copilot. The real difference between engines is not *how you write* but the **retrieval backend** each one reads from.
