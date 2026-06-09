@@ -1,6 +1,6 @@
 # Awesome GEO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**English** | [한국어](README.ko.md)
+**English** | [한국어](README.ko.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Español](README.es.md) | [Français](README.fr.md)
 
 > A curated, source-first map of **Generative Engine Optimization (GEO)**, Answer Engine Optimization (AEO), and AI search — built on official engine documentation, not vendor hype.
 

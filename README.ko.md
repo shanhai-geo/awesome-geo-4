@@ -1,6 +1,6 @@
 # Awesome GEO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[English](README.md) | **한국어**
+[English](README.md) | **한국어** | [中文](README.zh.md) | [日本語](README.ja.md) | [Español](README.es.md) | [Français](README.fr.md)
 
 영어 [README](README.md)를 한국어로 옮긴 문서입니다. 두 버전이 어긋날 때는 영어 원문을 기준으로 합니다.
 
