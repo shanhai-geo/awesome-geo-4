@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/logo.svg" alt="awesome-geo" width="128">
+</p>
+
 # Awesome GEO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [English](README.md) | [한국어](README.ko.md) | **中文** | [日本語](README.ja.md) | [Español](README.es.md) | [Français](README.fr.md)
